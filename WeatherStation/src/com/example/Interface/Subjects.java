@@ -11,4 +11,5 @@ public interface Subjects {
     public void removeObserver(Observer observer);
 
     public void notifyObserver();
+
 }
